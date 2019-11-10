@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Oromia",
+    "price": 50.00
+  },
+  {
+    "type": "Amahara",
+    "price": 100.00
+  },
+  {
+    "type": "Tigrai",
+    "price": 150.00
+  }
+]
